@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+redis
+databases[postgresql]
+sqlalchemy
+psycopg2-binary
